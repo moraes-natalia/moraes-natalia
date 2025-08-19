@@ -2,9 +2,8 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Project+Management+Professional;Programming+Enthusiast;Full-Stack+Developer)
-  
-  <img src="https://komarev.com/ghpvc/?username=moraes-natalia&color=00ff41&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Forrest Gump Running">
+
   
 </div>
 
@@ -44,20 +43,20 @@ const natalia = {
 <div align="center">
 
 ### 💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E90FF?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-4169E1?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4682B4?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0B5394?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4169E1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-4682B4?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🗄️ Database & Testing
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=checkmarx&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-0B5394?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -66,11 +65,11 @@ const natalia = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraes-natalia&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=39ff14&border_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraes-natalia&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=1E90FF&text_color=ffffff&icon_color=4169E1&border_color=1E90FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraes-natalia&theme=radical&background=0d1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00ff41&dates=ffffff&sideLabels=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraes-natalia&theme=tokyonight&background=0d1117&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=1E90FF&dates=ffffff&sideLabels=ffffff"/>
 </div>
 
 ___
@@ -83,7 +82,6 @@ ___
 
 ---
 
-## 🌐 Connect With Me
 
 <div align="center">
 
@@ -99,7 +97,4 @@ moraes-natalia.github.io 🔗
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00ff41&animation=twinkling"/>
-</div>
+ <img src="https://komarev.com/ghpvc/?username=moraes-natalia&color=1E90FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
