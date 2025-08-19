@@ -1,8 +1,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,I'm+Natalia+Project+Management+Professional;Programming+Passionate)
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,+I'm+Natalia;Project+Management+Professional;Programming+Passionate)
   
 </div>
 
