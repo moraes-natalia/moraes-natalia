@@ -21,7 +21,7 @@ const natalia = {
 };
 ```
 
-<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="ITCROWD">
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="ITCROWD">
 
 
 ---
