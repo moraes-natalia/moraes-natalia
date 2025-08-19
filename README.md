@@ -17,8 +17,8 @@ const natalia = {
     role: "Team Lead - LLM QA",
     experience: "10+ years in management across technology sectors",
     passion: "Translating business requirements into scalable technical solutions",
-    approach: "Strategic planning + Data-driven analysis + Systematic problem-solving",
-    motto: "Begin with precise problem definition to ensure solution relevance"
+    approach: "Begin with precise problem definition to ensure solution relevance",
+    always: "Strategic planning + Data-driven analysis + Systematic problem-solving",
 };
 ```
 
