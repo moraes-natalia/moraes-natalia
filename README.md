@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Forrest Gump Running">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Project+Management+Professional;Programming+Enthusiast;Full-Stack+Developer)
 
   
 </div>
@@ -21,7 +21,7 @@ const natalia = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="ITCROWD">
 
 ### 💡 Core Competencies
 
