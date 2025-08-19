@@ -13,7 +13,7 @@
 
 ```javascript
 const natalia = {
-    role: "Project Management Professional & Programming Enthusiast",
+    role: "Team Lead - LLM QA",
     experience: "10+ years in management across technology sectors",
     passion: "Translating business requirements into scalable technical solutions",
     approach: "Strategic planning + Data-driven analysis + Systematic problem-solving",
