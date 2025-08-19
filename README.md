@@ -1,8 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Natalia Moraes
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Project+Management+Professional;Programming+Passionate)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,I'm+Natalia+Project+Management+Professional;Programming+Passionate)
 
   
 </div>
@@ -21,7 +20,7 @@ const natalia = {
 };
 ```
 
-<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="ITCROWD">
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="ITCROWD">
 
 
 ---
@@ -78,4 +77,3 @@ const natalia = {
 </div>
 
 ---
- <img src="https://komarev.com/ghpvc/?username=moraes-natalia&color=1E90FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
