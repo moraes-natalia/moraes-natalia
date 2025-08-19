@@ -21,20 +21,8 @@ const natalia = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="ITCROWD">
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="ITCROWD">
 
-### 💡 Core Competencies
-
-- **🎯 Strategic Project Leadership**  
-  *Transforming operational challenges into strategic opportunities*
-
-- **⚡ Technology Integration**  
-  *Bridging management strategy with technical implementation*
-
-- **📈 Continuous Development**  
-  *Advancing across methodologies, engineering principles & team collaboration*
-
-<br clear="right"/>
 
 ---
 
@@ -71,13 +59,6 @@ const natalia = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraes-natalia&theme=tokyonight&background=0d1117&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=1E90FF&dates=ffffff&sideLabels=ffffff"/>
 </div>
-
-___
-
-- 🔨 **Building** innovative solutions that bridge management strategy with technical implementation
-- 🌱 **Learning** advanced development patterns and cloud architectures
-- 🎯 **Focusing** on creating scalable, business-aligned software solutions
-- 📚 **Studying** emerging technologies and best practices
 
 
 ---
