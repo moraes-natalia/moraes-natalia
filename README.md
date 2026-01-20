@@ -14,7 +14,7 @@ ____
 
 ```javascript
 const natalia = {
-    actual role: "Team Lead - LLM",
+    actual_role: "Team Lead - LLM",
     experience: "10+ years in management across technology sectors",
     passion: "Translating business requirements into scalable technical solutions",
     approach: "Begin with precise problem definition to ensure solution relevance",
