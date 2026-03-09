@@ -14,11 +14,17 @@ ____
 
 ```javascript
 const natalia = {
-    actual_role: "Team Lead - LLM",
-    experience: "10+ years in management across technology sectors",
-    passion: "Translating business requirements into scalable technical solutions",
-    approach: "Begin with precise problem definition to ensure solution relevance",
-    always: "Strategic planning + Data-driven analysis + Systematic problem-solving",
+    role: "AI Quality & LLM Evaluation Lead",
+    focus: ["LLM evaluation", "AI quality frameworks", "RLHF workflows"],
+    experience: "Leading AI evaluation and QA operations for large-scale models",
+    expertise: [
+        "AI output validation",
+        "Root Cause Analysis (RCA)",
+        "Guideline development",
+        "Annotation quality systems"
+    ],
+    collaboration: "Cross-functional work with data, product, and international teams",
+    mindset: "Analytical thinking + structured evaluation + system reliability",
 };
 ```
 
