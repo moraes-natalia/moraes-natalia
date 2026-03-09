@@ -70,15 +70,6 @@ const natalia = {
 
 ---
 
-
-<div align="center">
-
-🔗 moraes-natalia.github.io 🔗
-  
-</div>
-
----
-
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   
